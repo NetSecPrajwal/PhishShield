@@ -1,4 +1,4 @@
-# PhishShield - AI-Powered Phishing Email Detector
+# PhishShield - A Phishing Email Detector
 
 PhishShield is a cybersecurity tool designed to analyze email content and detect phishing attempts using AI-based techniques.
 
@@ -22,14 +22,13 @@ cd PhishShield
 # Create a virtual environment
 ```bash
 python -m venv venv
-
+```
 # Activate the virtual environment
-# For Windows:
-venv\Scriptsctivate
-# For Linux/macOS:
+```bash
 source venv/bin/activate
-
+```
 # Install dependencies
+```bash
 pip install -r requirements.txt
 ```
 
