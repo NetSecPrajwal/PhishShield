@@ -1,6 +1,6 @@
 # PhishShield - A Phishing Email Detector
 
-PhishShield is a cybersecurity tool designed to analyze email content and detect phishing attempts using AI-based techniques.
+PhishShield is a cybersecurity tool designed to analyze email content and detect phishing attempts techniques.
 
 ## 🚀 Features
 - **Email Header Analysis**: Examines sender details for suspicious patterns.
