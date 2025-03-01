@@ -11,14 +11,16 @@ PhishShield is a cybersecurity tool designed to analyze email content and detect
 
 ## 🛠️ Installation
 
-```bash
 # Clone the repository
+```bash
 git clone https://github.com/NetSecPrajwal/PhishShield.git
-
+```
 # Navigate to the project directory
+```bash
 cd PhishShield
-
+```
 # Create a virtual environment
+```bash
 python -m venv venv
 
 # Activate the virtual environment
