@@ -51,4 +51,5 @@ Feel free to contribute by submitting issues or pull requests.
 
 ## 📧 Contact
 
-For questions or suggestions, reach out to **Prajwal Gaikwad** at [GitHub](https://github.com/NetSecPrajwal).
+For questions or suggestions, reach out to **Prajwal Gaikwad** at [GitHub](https://github.com/NetSecPrajwal)
+[Instagram](https://www.instagram.com/_prajwal__358?igsh=ZXBrbGtmYnJoMmRl).
